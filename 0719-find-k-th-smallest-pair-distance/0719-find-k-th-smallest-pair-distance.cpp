@@ -11,10 +11,7 @@ public:
     }
     int smallestDistancePair(vector<int>& nums, int k) {
         sort(nums.begin(),nums.end());
-        int r=INT_MIN,l=0;
-        for(int n:nums){
-            r=max(n,r);
-        }
+        int r=nums[nums.size()-1],l=0;
         while(l<r){
             int mid=l+((r-l)/2);
             int pairs=count(mid,nums);
