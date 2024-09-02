@@ -5,9 +5,7 @@ public:
         for(auto c:chalk){
             sum+=c;
         }
-        while(k>=sum){
-            k-=sum;
-        }
+        k=k%sum;
         for(int i=0;i<chalk.size();i++){
             if(chalk[i]>k)
             return i;
