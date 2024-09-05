@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> missingRolls(vector<int>& rolls, int mean, int n) {
-        int s = rolls.size() + n;  // Total number of rolls (m + n)
+        int s = rolls.size() + n; 
         int m_sum = 0, n_sum = 0;
         for (auto r : rolls) {
             m_sum += r;
