@@ -23,6 +23,8 @@ public:
         vector<int>arr1,arr2;
         traversal(root1,arr1);
         traversal(root2,arr2);
+        if(arr1.size()!=arr2.size())
+        return false;
         for(int i=0;i<arr1.size();i++){
             if(arr1[i]!=arr2[i])
             return false;
