@@ -41,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
