@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -53,6 +54,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
