@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -70,6 +71,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
