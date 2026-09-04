@@ -15,6 +15,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
