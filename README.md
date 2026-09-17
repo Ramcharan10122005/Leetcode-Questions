@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -70,6 +71,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -104,4 +106,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
