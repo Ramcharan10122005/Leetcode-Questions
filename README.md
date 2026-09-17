@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -78,6 +79,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Union-Find
@@ -101,6 +103,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
