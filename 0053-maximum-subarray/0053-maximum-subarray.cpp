@@ -2,11 +2,9 @@ class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
         int maxsub = nums[0];
-        int cursum = 0;
-        for (auto n : nums) {
-            if (cursum < 0)
-                cursum = 0;
-            cursum += n;
+        int cursum = nums[0];
+        for (int i=1;i<nums.size();i++) {
+            cursum = max(nums[i],cursum+nums[i]);
             maxsub = max(maxsub, cursum);
         }
         return maxsub;
