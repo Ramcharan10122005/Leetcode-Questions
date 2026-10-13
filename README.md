@@ -66,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -110,6 +111,7 @@
 | [0011-container-with-most-water](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
