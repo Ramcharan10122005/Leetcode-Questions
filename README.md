@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
+| [0605-can-place-flowers](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Union-Find
