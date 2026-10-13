@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
