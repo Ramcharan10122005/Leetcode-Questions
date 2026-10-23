@@ -21,6 +21,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
@@ -140,4 +141,8 @@
 | [1068-product-sales-analysis-i](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 <!---LeetCode Topics End-->
