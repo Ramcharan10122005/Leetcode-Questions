@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -55,6 +56,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
@@ -98,6 +100,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
