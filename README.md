@@ -11,6 +11,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0605-can-place-flowers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -101,6 +102,7 @@
 | [0015-3sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -118,6 +121,7 @@
 | [0011-container-with-most-water](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/0075-sort-colors/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ramcharan10122005/Leetcode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sliding Window
